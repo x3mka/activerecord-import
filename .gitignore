@@ -1,0 +1,32 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## IDEA
+.idea
+
+## PROJECT::GENERAL
+coverage
+rdoc
+pkg
+
+## PROJECT::SPECIFIC
+log/*.log
+test.db
+test/database.yml
+
+.bundle/
+.redcar/
+.rvmrc
+docsite/
